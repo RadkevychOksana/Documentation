@@ -30,6 +30,7 @@ header {
   border-right: 2px solid #484c63;
   border-top: none;
   width: 390px;
+  overflow: scroll;
 }
 
 .navbar__title {
